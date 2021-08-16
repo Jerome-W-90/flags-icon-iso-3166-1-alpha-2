@@ -3,6 +3,7 @@
 * With name or ISO 3166-1 alpha-2 codes.
 * Available sizes: 16×16, 24×24, 32×32, 48×48, 64×64, 128×128.
 * Icon formats: PNG
+![flags](http://www.icondrawer.com/img/free_img/flag-icons.jpg)
 
 
 # Made by
