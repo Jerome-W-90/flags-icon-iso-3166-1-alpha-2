@@ -1,10 +1,10 @@
+![flags](http://www.icondrawer.com/img/free_img/flag-icons.jpg)
+
 # Flag icons
 * 284 countries and unions (updated 02.2013) all over the world. 
 * With name or ISO 3166-1 alpha-2 codes.
 * Available sizes: 16×16, 24×24, 32×32, 48×48, 64×64, 128×128.
 * Icon formats: PNG
-![flags](http://www.icondrawer.com/img/free_img/flag-icons.jpg)
-
 
 # Made by
 Flag icons are made by [www.icondrawer.com](http://www.icondrawer.com/free.php).
